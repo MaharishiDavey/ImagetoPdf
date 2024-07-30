@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagetoPdf", "ImagetoPdf\ImagetoPdf.csproj", "{47F041C3-81D3-4176-9538-8F7B6185A40B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F041C3-81D3-4176-9538-8F7B6185A40B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F041C3-81D3-4176-9538-8F7B6185A40B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F041C3-81D3-4176-9538-8F7B6185A40B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F041C3-81D3-4176-9538-8F7B6185A40B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B0F264B-9119-4780-B267-8B0F2791EDCA}
+	EndGlobalSection
+EndGlobal
